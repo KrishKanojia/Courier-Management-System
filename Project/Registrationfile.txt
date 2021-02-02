@@ -1,0 +1,4 @@
+125,Iqbal,405,1996-02-01,Male,Iqbal7@gmail.com,Graduation,0330-8001452
+123,Ibrahim,412,1996-01-19,Male,ibrahim.edu.pk,Intermediate,0321-569814
+12,Zaid,478,2020-12-28,Male,Zaid.edu.pk,Intermediate,0321-5894123
+145,Huazaifa,478,2021-01-21,Male,Huzaifa.edu.pk,Graduation,0321-569841
